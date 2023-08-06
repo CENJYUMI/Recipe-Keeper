@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Recipe Keeper</string>
+    <string name="app_title">FLANtastic Treats by Mary Claire</string>
+    <string name="app_addrecipe">Add Recipe Name</string>
+    <string name="app_recipename">Enter Recipe Name</string>
+    <string name="app_addingredients">Add Ingredients</string>
+    <string name="app_ingredients">Enter Ingredients</string>
+    <string name="app_addInstruction">Enter Instruction</string>
+    <string name="app_saveRecipe">Save Recipe</string>
+    <string name="app_clearAll">Clear All</string>
+</resources>
